@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Fashion Day</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="email">Email</string>
+    <string name="find_unique">Find Your Unique Style</string>
+    <string name="don_t_have_account">Don\'t have an account?</string>
+    <string name="register_here">Sign up</string>
+    <string name="your_full_name">Username</string>
+    <string name="search">Search</string>
+    <string name="best_today">Best Today</string>
+    <string name="gender">Choose Gender</string>
+    <string name="upload">Upload</string>
+    <string name="username">Username</string>
+    <string-array name="gender">
+        <item>Men</item>
+        <item>Women</item>
+    </string-array>
+</resources>
