@@ -24,7 +24,6 @@ We create an application android.
 
 And this is the libraries we used to build the android application:
 * [Retrofit](https://square.github.io/retrofit/)
-* [Tensorflow Lite](https://www.tensorflow.org/lite)
 * [Glide](https://bumptech.github.io/glide/)
 
 
