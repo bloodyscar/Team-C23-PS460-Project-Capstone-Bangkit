@@ -11,6 +11,31 @@
 | Adit Hernowo | Mobile Development | a147dsx1405@bangkit.academy |
 | Abdul Rahman Fauzi | Mobile Development | a147dsx3311@bangkit.academy |
 
+## Machine Learning
+
+### Techonologies
+We build a deep learning model with TensorFlow and Keras.
+
+### Setup
+To setup this project, firstly download dataset in kaggle
+```javascript
+https://www.kaggle.com/datasets/kaiska/apparel-dataset
+```
+and then run with google colab or local jupyter notebook.
+
+### Result
+Here is our application's Screenshot
+<p float="left">
+  <img src="https://github.com/bloodyscar/Team-C23-PS460-Project-Capstone-Bangkit/blob/main/media/foto%20ml/image1.jpg" width="24%" />
+  <img src="https://github.com/bloodyscar/Team-C23-PS460-Project-Capstone-Bangkit/blob/main/media/foto%20ml/image.png" width="24%" /> 
+  <img src="https://github.com/bloodyscar/Team-C23-PS460-Project-Capstone-Bangkit/blob/main/media/foto%20ml/image2.png" width="24%" /> 
+  <img src="https://github.com/bloodyscar/Team-C23-PS460-Project-Capstone-Bangkit/blob/main/media/foto%20ml/image3.png" width="24%" /> 
+</p>
+
+### Future work
+This model need to improve an accuracy to detect more fashion
+
+=================
 ## Mobile Development
 
 ### Techonologies
