@@ -13,7 +13,7 @@
 
 ## Machine Learning
 
-### Techonologies
+### Technologies
 We build a deep learning model with TensorFlow and Keras.
 
 ### Setup
@@ -38,7 +38,7 @@ This model need to improve an accuracy to detect more fashion
 =================
 ## Mobile Development
 
-### Techonologies
+### Technologies
 We create an application android using Kotlin with IDE Android Studio
 
 ### Setup
@@ -72,3 +72,27 @@ Here is our application's Screenshot
 
 ### Future work
 This project need to explore again such as UI/UX Design, more feature.
+
+=================
+## Cloud Computing
+
+### Techonologies
+We create an API with banyumili framework and database with mySQL
+
+### Setup
+To setup this project, just git clone this project. example:
+```javascript
+git clone https://github.com/melaatiptr/Capstone-Project
+```
+
+### Result
+Here is our application's Screenshot
+<p float="left">
+  <img src="https://github.com/bloodyscar/Team-C23-PS460-Project-Capstone-Bangkit/blob/main/media/foto%20cc/image.png" width="24%" />
+  <img src="https://github.com/bloodyscar/Team-C23-PS460-Project-Capstone-Bangkit/blob/main/media/foto%20cc/image2.png" width="24%" /> 
+  <img src="https://github.com/bloodyscar/Team-C23-PS460-Project-Capstone-Bangkit/blob/main/media/foto%20cc/image1.png" width="24%" /> 
+  <img src="https://github.com/bloodyscar/Team-C23-PS460-Project-Capstone-Bangkit/blob/main/media/foto%20cc/image4.jpg" width="24%" /> 
+</p>
+
+### Future work
+This API need to improve again especially usage of model from machine learning and more feature API.
