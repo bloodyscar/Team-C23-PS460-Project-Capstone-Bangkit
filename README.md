@@ -13,10 +13,20 @@
 
 ## Mobile Development
 
-### Overview
+### Techonologies
+We create an application android using Kotlin with IDE Android Studio
 
-We create an application android.
+### Setup
+To setup this project, just git clone this project. example:
+```javascript
+git clone https://github.com/bloodyscar/Team-C23-PS460-Project-Capstone-Bangkit.git
+```
 
+### Usage/Examples
+Exampel of this project can see with this link:
+https://drive.google.com/file/d/137dLTG_DnqyYxiLaZBAcuE3GW5GhM0wg/view?usp=sharing
+
+### Flowchart
 <details>
   <summary>Application Flowchart</summary>
   <img src="https://github.com/bloodyscar/Fashion-Day/blob/main/Media/Flowchart.png"/>
@@ -26,7 +36,7 @@ And this is the libraries we used to build the android application:
 * [Retrofit](https://square.github.io/retrofit/)
 * [Glide](https://bumptech.github.io/glide/)
 
-
+### Result
 Here is our application's Screenshot
 <p float="left">
   <img src="https://github.com/bloodyscar/Fashion-Day/blob/main/Media/Login%20Page.png" width="24%" />
@@ -35,3 +45,5 @@ Here is our application's Screenshot
   <img src="https://github.com/bloodyscar/Fashion-Day/blob/main/Media/Search%20Page.png" width="24%" /> 
 </p>
 
+### Future work
+This project need to explore again such as UI/UX Design, more feature.
